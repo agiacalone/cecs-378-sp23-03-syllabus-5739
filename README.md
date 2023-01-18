@@ -1,16 +1,16 @@
 # Introduction to Computer Security Principles
 
-## CECS 378: Section 3 (9284)
+## CECS 378: Section 1 (5739)
 
-### Fall 2022
+### Spring 2023
 
-| Class Lecture | Time              | Room    |
-|---------------|-------------------|---------|
-| Mon Wed       | 5:30 PM - 6:45 PM | VEC-518 |
+| Class Lecture | Time                | Room    |
+|---------------|---------------------|---------|
+| Tue Thu       | 11:00 AM - 12:15 PM | HC-100  |
 
-| Instructor        | Email                       | Office  | Office Hours                  |
-|-------------------|-----------------------------|---------|-------------------------------|
-| Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-530 | 10:00 AM - 11:00 AM  MoTuWeTh |
+| Instructor        | Email                       | Office  | Office Hours           |
+|-------------------|-----------------------------|---------|----------------------------|
+| Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-530 | 10:00 - 11:00 AM Mon-Thu |
 
 ### Required Textbook
 
@@ -53,11 +53,11 @@ Homework and lab assignments will be assigned approximately every other week, an
 
 * Homework and lab assignments are due on the date and time indicated on [Github Classroom](http://classroom.github.com)
 * Homework may include writing code, doing research, essay writing, debugging programs, and other disciplines.
-* Lab assignments will be coding exercises designed to practice the concepts discussed in lecture.
-* You are welcome to work on homework and lab assignments at home, but assistance will only be provided during lab time and office hours.
+* Lab assignments will be coding projects designed to practice the concepts discussed in lecture.
+* You are welcome to work on homework and lab assignments at home, but assistance will only be provided during classtime or office hours.
 * Labs will be graded on correct answers to required deliverables and/or the completeness of the assignment. Incomplete assignments may receive partial or no credit at the discretion of the instructor.
 * Students will be expected to read selections from the textbook for every lecture session. These readings should be done before class so that we can have a discussion on the topics during the lecture.
-* During exams, there will be *no bathroom breaks*. Please be sure to use the restroom prior to the start of the exam. If a student leaves the classroom before the exam has been concluded, that student forfeits the completion of the rest of their exam.
+* During in-class exams or quizzes, there will be *no bathroom breaks*. Please be sure to use the restroom prior to the start of the exam. If a student leaves the classroom before the exam has been concluded, that student forfeits the completion of the rest of their exam.
 * All source code submitted must be adequately commented in order to receive credit. Source code which is not commented with the student's own comments *will not receive any credit*.
 
 **Late assignments** will, at a minimum, be subject to a 10% reduction in grade *per day* that the assignment is late. I do not accept homework submissions via email, fax, or any other means than the deliverable requirements listed on the assignment specification.
@@ -66,22 +66,21 @@ Homework and lab assignments will be assigned approximately every other week, an
 
 |  Week      | Subject                                             |
 |------------|-----------------------------------------------------|
-| Aug 22     | Intro to Computer Security (Ch 1)                   |
-| Aug 29     | Symmetric and Assymmetric Encryption (Ch 2, 20, 21) |
-| Sep  5     | Encryption, ctd                                     |
-| Sep 12     | Encryption, ctd                                     |
-| Sep 19     | First exam, Malicious Software (Ch 6)               |
-| Sep 26     | Denial of Service Attacks (Ch 7)                    |
-| Oct  3     | DoS ctd, Database and Cloud Security (Ch 5)         |
-| Oct 10     | Database, ctd.                                      |
-| Oct 17     | Second Exam, Buffer Overflow Attacks (Ch 10)        |
-| Oct 24     | Buffer Overflow, ctd                                |
-| Oct 31     | Buffer Overflow, ctd                                |
-| Nov  7     | User Authentication and Access Control (Ch 3, 4)    |
-| Nov 14     | UAAC ctd, Intrusion Detection (Ch 8)                |
-| Nov 21     | Fall Break                                          |
-| Nov 28     | OS Security (Ch 12)                                 |
-| Dec 5-12   | Case Study, Final Exam                              |
+| Jan 19, 23 | Intro to Computer Security (Ch 1)                   |
+| Feb  1     | Symmetric and Assymmetric Encryption (Ch 2, 20, 21) |
+| Feb  6     | Encryption, ctd                                     |
+| Feb 13     | First exam, Malicious Software (Ch 6)               |
+| Feb 20     | Malicious Software, ctd                             |
+| Feb 27     | Denial of Service Attacks (Ch 7)                    |
+| Mar  6     | DoS ctd, Database and Cloud Security (Ch 5)         |
+| Mar 13     | Database, ctd                                       |
+| Mar 20     | Second Exam, Buffer Overflow Attacks (Ch 10)        |
+| Mar 27     | **Spring Break**                                    |
+| Apr  3     | Buffer Overflow, ctd.                               |
+| Apr 10     | User Authentication and Access Control (Ch 3, 4)    |
+| Apr 17     | UAAC ctd, Intrusion Detection (Ch 8)                |
+| Apr 24     | OS Security (Ch 12)                                 |
+| May  1, 8  | Case Study, Final Exam                              |
 
 ### Computer Software
 
